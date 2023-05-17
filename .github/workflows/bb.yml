@@ -6,7 +6,7 @@ on:
     branches: [ main ]
 
 env:
-  DOMAIN: 'skipso.com'
+  DOMAIN: 'jandenul.com'
 
 jobs:
   subdomains:

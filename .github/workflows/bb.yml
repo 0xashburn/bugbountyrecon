@@ -6,7 +6,7 @@ on:
     branches: [ main ]
 
 env:
-  DOMAIN: 'jandenul.com'
+  DOMAIN: 'moviexchange.com'
 
 jobs:
   subdomains:

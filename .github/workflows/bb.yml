@@ -6,7 +6,7 @@ on:
     branches: [ main ]
 
 env:
-  DOMAIN: 'moviexchange.com'
+  DOMAIN: 'zolostays.com'
 
 jobs:
   subdomains:

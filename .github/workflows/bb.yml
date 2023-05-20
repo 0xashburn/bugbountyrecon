@@ -6,7 +6,7 @@ on:
     branches: [ main ]
 
 env:
-  DOMAIN: 'ndis.gov.au'
+  DOMAIN: 'bbc.com'
 
 jobs:
   subdomains:

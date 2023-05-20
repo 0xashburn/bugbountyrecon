@@ -6,7 +6,7 @@ on:
     branches: [ main ]
 
 env:
-  DOMAIN: 'bbc.com'
+  DOMAIN: 'apple.com'
 
 jobs:
   subdomains:

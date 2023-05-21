@@ -6,7 +6,7 @@ on:
     branches: [ main ]
 
 env:
-  DOMAIN: 'wur.nl'
+  DOMAIN: 'trendmicro.com'
 
 jobs:
   subdomains:

@@ -6,7 +6,7 @@ on:
     branches: [ main ]
 
 env:
-  DOMAIN: 'itunes.com'
+  DOMAIN: 'wur.nl'
 
 jobs:
   subdomains:

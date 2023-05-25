@@ -6,7 +6,7 @@ on:
     branches: [ main ]
 
 env:
-  DOMAIN: 'kpt.ch'
+  DOMAIN: 'clientis.ch'
 
 jobs:
   subdomains:

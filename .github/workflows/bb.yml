@@ -6,7 +6,7 @@ on:
     branches: [ main ]
 
 env:
-  DOMAIN: 'durex.com'
+  DOMAIN: 'reckitt.com'
 
 jobs:
   subdomains:

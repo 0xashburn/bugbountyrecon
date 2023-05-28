@@ -6,7 +6,7 @@ on:
     branches: [ main ]
 
 env:
-  DOMAIN: 'backblaze.com'
+  DOMAIN: 'pagerduty.com'
 
 jobs:
   subdomains:

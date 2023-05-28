@@ -6,7 +6,7 @@ on:
     branches: [ main ]
 
 env:
-  DOMAIN: 'gaviscon.ch'
+  DOMAIN: 'backblaze.com'
 
 jobs:
   subdomains:

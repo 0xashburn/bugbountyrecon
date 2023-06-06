@@ -6,7 +6,7 @@ on:
     branches: [ main ]
 
 env:
-  DOMAIN: 'asana.plus'
+  DOMAIN: 'tesla.com'
 
 jobs:
   subdomains:

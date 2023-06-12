@@ -6,7 +6,7 @@ on:
     branches: [ main ]
 
 env:
-  DOMAIN: 'sidefx.com'
+  DOMAIN: 'valiant.ch'
 
 jobs:
   subdomains:

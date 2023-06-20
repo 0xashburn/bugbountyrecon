@@ -6,7 +6,7 @@ on:
     branches: [ main ]
 
 env:
-  DOMAIN: 'olx.pl'
+  DOMAIN: 'infomaniak.site'
 
 jobs:
   subdomains:

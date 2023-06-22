@@ -6,7 +6,7 @@ on:
     branches: [ main ]
 
 env:
-  DOMAIN: 'infomaniak.site'
+  DOMAIN: 'clientis.ch'
 
 jobs:
   subdomains:

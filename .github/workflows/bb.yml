@@ -6,7 +6,7 @@ on:
     branches: [ main ]
 
 env:
-  DOMAIN: 'clientis.ch'
+  DOMAIN: 'flourish.studio'
 
 jobs:
   subdomains:

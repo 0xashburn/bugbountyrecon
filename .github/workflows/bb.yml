@@ -6,7 +6,7 @@ on:
     branches: [ main ]
 
 env:
-  DOMAIN: 'newegg.com'
+  DOMAIN: 'fujcharity.ae'
 
 jobs:
   subdomains:

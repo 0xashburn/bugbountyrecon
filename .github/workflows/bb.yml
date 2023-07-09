@@ -6,7 +6,7 @@ on:
     branches: [ main ]
 
 env:
-  DOMAIN: 'reckitt.com'
+  DOMAIN: 'valiant.ch'
 
 jobs:
   subdomains:
